@@ -1,0 +1,6 @@
+@ContosoPizza_HostAddress = http://localhost:7147
+
+GET {{ContosoPizza_HostAddress}}/pie
+Accept: application/json
+
+###
